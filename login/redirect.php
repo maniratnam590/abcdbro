@@ -1,5 +1,5 @@
 <?php
 echo "this is redirect file completed";
-echo "version 3.0";
+echo "This is login feature";
 echo "Fully verified";
 ?>
